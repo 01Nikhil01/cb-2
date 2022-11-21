@@ -2,7 +2,6 @@ import {
   Grid,
   Box,
   Typography,
-  InputLabel,
   Input,
   Button,
   Checkbox,
